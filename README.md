@@ -1,15 +1,16 @@
 URL: https://mcoulier.github.io/progressive-enhancement/
-#Goals
+
+# Goals
 * Making a website that has the correct semantics so that it is accessible to everyone.
 * Getting all green SEO scores
 
-#Progress
+# Progress
 * In Progress
 * Currently adding CSS selectors
 * Up next is Positioning
 
-#Date
+# Date
 Started working on website 5/08/2020
 
-#Author
+# Author
 Michiel Coulier
