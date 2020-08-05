@@ -57,8 +57,16 @@ header > h5 {
 
 .good {
     color: green;
+    text-transform: capitalize;
 }
 
 .bad {
     color: red;
+    text-transform: capitalize;
 }
+
+tr {
+    background-color: whitesmoke;
+}
+
+tr:nth-child()
