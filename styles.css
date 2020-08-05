@@ -5,6 +5,8 @@ h1, h2, h3, h4, h5 {
 
 p {
     color: midnightblue;
+    letter-spacing: 2px;
+    font-size: 18px;
 }
 
 .story {
@@ -30,6 +32,8 @@ body {
     width: 90%;
     margin: auto;
     background-image: linear-gradient(#0d7515, #c88f2a);
+    color: midnightblue;
+    font-size: 18px;
 }
 
 blockquote {
@@ -71,4 +75,8 @@ tr:nth-child(odd) {
 
 tr:nth-child(even) {
     background: whitesmoke;
+}
+
+.story p:first-of-type  {
+    font-weight: bold;
 }
