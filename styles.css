@@ -65,8 +65,10 @@ header > h5 {
     text-transform: capitalize;
 }
 
-tr {
-    background-color: whitesmoke;
+tr:nth-child(odd) {
+    background: darkgrey;
 }
 
-tr:nth-child()
+tr:nth-child(even) {
+    background: whitesmoke;
+}
