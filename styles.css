@@ -1,0 +1,52 @@
+h1, h2, h3, h4, h5 {
+    letter-spacing: 2px;
+    color: midnightblue;
+}
+
+p {
+    color: midnightblue;
+}
+
+.story {
+    font-family: Serif;
+    font-size: 18px;
+    letter-spacing: 2px;
+    color: midnightblue;
+}
+
+a:visited {
+    color: rebeccapurple;
+}
+
+a:hover {
+    color: red;
+}
+
+a {
+    text-transform: uppercase;
+}
+
+body {
+    width: 90%;
+    margin: auto;
+    background-image: linear-gradient(#0d7515, #c88f2a);
+}
+
+blockquote {
+    width: 50%;
+    margin: 80px auto 80px auto;
+    font-size: 160%;
+    font-style: italic;
+    color: midnightblue;
+    background-color: gainsboro;
+    border-left: 3px dashed;
+    padding-left: 30px;
+}
+
+.Villager {
+    border-left-color: red;
+}
+
+.Farmer {
+    border-left-color: blue;
+}
