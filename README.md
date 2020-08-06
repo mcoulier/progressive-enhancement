@@ -6,8 +6,8 @@ URL: https://mcoulier.github.io/progressive-enhancement/
 
 # Progress
 * In Progress
-* Currently adding CSS selectors
-* Up next is Positioning
+* Improving SEO score
+* Improving "Best practices" score
 
 # Date
 Started working on website 4/08/2020
