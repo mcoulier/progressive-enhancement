@@ -1,6 +1,7 @@
 h1, h2, h3, h4, h5 {
     letter-spacing: 2px;
     color: midnightblue;
+    font-family: 'Raleway', sans-serif;
 }
 
 img {
@@ -8,7 +9,6 @@ img {
     height: auto;
     float: left;
     margin-right: 40px;
-    margin-bottom: 70px;
 }
 
 p {
@@ -18,7 +18,7 @@ p {
 }
 
 .story {
-    font-family: Serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 18px;
     letter-spacing: 2px;
     color: midnightblue;
@@ -42,11 +42,12 @@ body {
     background-image: linear-gradient(#0d7515, #c88f2a);
     color: midnightblue;
     font-size: 18px;
+    font-family: 'Raleway', sans-serif;
 }
 
 blockquote {
     width: 50%;
-    margin: 150px auto 80px auto;
+    margin: 145px auto 80px auto;
     font-size: 160%;
     font-style: italic;
     color: midnightblue;
@@ -88,3 +89,5 @@ tr:nth-child(even) {
 .story p:first-of-type  {
     font-weight: bold;
 }
+
+font-family: 'Raleway', sans-serif;
