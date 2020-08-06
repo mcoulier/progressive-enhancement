@@ -3,6 +3,14 @@ h1, h2, h3, h4, h5 {
     color: midnightblue;
 }
 
+img {
+    width: 50%;
+    height: auto;
+    float: left;
+    margin-right: 40px;
+    margin-bottom: 70px;
+}
+
 p {
     color: midnightblue;
     letter-spacing: 2px;
@@ -38,7 +46,7 @@ body {
 
 blockquote {
     width: 50%;
-    margin: 80px auto 80px auto;
+    margin: 150px auto 80px auto;
     font-size: 160%;
     font-style: italic;
     color: midnightblue;
