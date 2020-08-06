@@ -10,7 +10,7 @@ URL: https://mcoulier.github.io/progressive-enhancement/
 * Up next is Positioning
 
 # Date
-Started working on website 5/08/2020
+Started working on website 4/08/2020
 
 # Author
 Michiel Coulier
